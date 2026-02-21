@@ -1,0 +1,4 @@
+-- TEMPLATE: Write your query here
+-- Business question:
+-- Tables used:
+-- Notes:
