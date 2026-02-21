@@ -34,3 +34,9 @@ python src/00_build_sqlite_db.py
 - Built an interview-ready SQL case study by generating an e-commerce SQLite database and solving 40+ business questions using CTEs and window functions.
 - Analyzed revenue trends, top customers, product profitability and retention cohorts to provide stakeholder-ready insights.
 
+#markdown 
+This project simulates a real-world e-commerce business database and answers key strategic business questions using advanced SQL.
+
+It demonstrates strong analytical thinking, business understanding, and production-level SQL skills required for Data Analyst and Business Analyst roles.
+
+
